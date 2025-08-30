@@ -1,0 +1,9 @@
+{
+    "name": "Custom Theme",
+    "version": "1.0.0",
+    "description": "A custom theme that removes Open edX branding from the footer",
+    "author": "Your Organization",
+    "license": "MIT",
+    "template_dir": "lms/templates",
+    "static_dir": "lms/static"
+} 
